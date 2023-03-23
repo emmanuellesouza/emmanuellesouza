@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emmanuellesouza
 - 👀 I’m interested in games
 - 🌱 I’m currently learning how make games
-- 💞️ I’m looking to collaborate on game
+- 💞️ I’m looking to collaborate on games
 - 📫 How to reach me emmanuelle.souza@escola.pr.gov.br 
 
 <!---
